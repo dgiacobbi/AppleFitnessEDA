@@ -1,4 +1,0 @@
-Hypothesis Tests (2-3 minimum):
-    - are active calories greater during the week than the weekend?
-    - is excercise duration greater when it is warmer or colder?
-    - are strength training workouts higher intensity than other workouts?
